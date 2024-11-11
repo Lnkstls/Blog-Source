@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "cust-iconfont"; /* Project id 2450488 */
+  src: url('iconfont.woff2?t=1662742248379') format('woff2'),
+       url('iconfont.woff?t=1662742248379') format('woff'),
+       url('iconfont.ttf?t=1662742248379') format('truetype');
+}
+
+.cust-iconfont {
+  font-family: "cust-iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconcloud:before {
+  content: "\e620";
+}
+
